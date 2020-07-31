@@ -1,0 +1,8 @@
+title: Module2-solution
+description: Coursera online course for HTML, CSS and JavaScript.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
